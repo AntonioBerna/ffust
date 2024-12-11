@@ -64,7 +64,7 @@ cargo uninstall ffust
 
 ## Mini docs
 
-After the insyallation, you can run the program with the following command:
+After the installation, you can run the program with the following command:
 
 ```
 ffust --help
