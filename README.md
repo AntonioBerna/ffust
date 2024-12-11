@@ -36,9 +36,9 @@ cargo install --path .
 
 > [!INFO]
 > I recommend you to install the program in the system instead of using `cargo`. However, if you want to use `cargo`, you can run the program with the following command:
-> ```
-> cargo run -- <operation> <input-file> <output-file>
-> ```
+>    ```
+>    cargo run -- <operation> <input-file> <output-file>
+>    ```
 
 ## Uninstall
 
@@ -50,9 +50,9 @@ cargo uninstall ffust
 
 > [!INFO]
 > If you use `cargo` to run the program, you can uninstall it with the following command:
-> ```
-> cargo clean
-> ```
+>    ```
+>    cargo clean
+>    ```
 
 ## Supported Operations
 
