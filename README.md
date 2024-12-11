@@ -34,7 +34,7 @@ Now, after navigate to the project folder, you can install the program in your s
 cargo install --path .
 ```
 
-> [!INFO]
+> [!NOTE]
 > I recommend you to install the program in the system instead of using `cargo`. However, if you want to use `cargo`, you can run the program with the following command:
 >    ```
 >    cargo run -- <operation> <input-file> <output-file>
@@ -48,7 +48,7 @@ If you want to uninstall the program, you can do it with the following command:
 cargo uninstall ffust
 ```
 
-> [!INFO]
+> [!NOTE]
 > If you use `cargo` to run the program, you can uninstall it with the following command:
 >    ```
 >    cargo clean
