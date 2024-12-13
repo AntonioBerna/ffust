@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/imgs/ffust-no-bg.png" alt="ffust logo" width="200" height="200">
+</p>
+
 # :crab: ffust
 
 ![GitHub License](https://img.shields.io/github/license/antonioberna/ffust)
@@ -5,7 +9,9 @@
 
 ## Introduction
 
-This little project was born from the idea of ​​sharing (without quality loss) video and/or audio files recorded via `OBS Studio` and/or `Audacity`. In fact, these software are very powerful but at the same time they create really large files in order to be shared. In addition the `ffmpeg` software has options that are not very easy to remember.
+This little project was born from the idea of sharing (without quality loss) video and/or audio files recorded via `OBS Studio` and/or `Audacity`.
+In fact, these software are very powerful but at the same time they create really large files in order to be shared.
+In addition the `ffmpeg` software has options that are not very easy to remember.
 
 So the purpose of `ffust` is to implement the operations of audio capture from video, lossless video compression and conversion from one video and/or audio format to another using English instead of flags that are incomprehensible to newbies.
 
