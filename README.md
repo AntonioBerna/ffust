@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/imgs/ffust-no-bg.png" alt="ffust logo" width="200" height="200">
+  <img src=".github/imgs/ffust-logo-no-bg.png" alt="ffust logo" width="200" height="200">
 </p>
 
 # :crab: ffust
